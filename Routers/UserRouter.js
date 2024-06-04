@@ -1,5 +1,5 @@
 import  express from "express";
-import UsersController from "../controllers/UsersController";
+import UsersController from "../Controllers/UserController";
 
 const UsersRouter=express.Router();
 
